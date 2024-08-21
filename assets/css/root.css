@@ -1,0 +1,67 @@
+:root {
+    --color-skyblue: #1E71FF;
+    --color-text-skyblue: #1E71FF;
+    --color-white: white;
+    --color-lightblue: #E8F1FF;
+    --color-grey: #2B353EB2;
+    --fw-sm: 600;
+    --fw-xxl: 200;
+    --fw-md: 400;
+    --fw-xl: 500;
+    --fs-sm: 75px;
+    --fs-md: 21px;
+    --fs-xxl: 18px;
+    --fs-xl: 45px;
+}
+
+.color-skyblue {
+    background-color: var(--color-skyblue);
+}
+
+.color-white {
+    color: var(--color-white);
+}
+
+.color-grey {
+    color: var(--color-grey);
+}
+
+.color-lightblue {
+    background-color: var(--color-lightblue);
+}
+
+.color-text-skyblue {
+    color: var(--color-text-skyblue);
+}
+
+.fw-sm {
+    font-weight: var(--fw-sm)
+}
+
+.fw-md {
+    font-weight: var(--fw-md);
+}
+
+.fw-xl {
+    font-weight: var(--fw-xl);
+}
+
+.fw-xxl {
+    font-weight: var(--fw-xxl);
+}
+
+.fs-sm {
+    font-size: var(--fs-sm);
+}
+
+.fs-md {
+    font-size: var(--fs-md);
+}
+
+.fs-xl {
+    font-size: var(--fs-xl);
+}
+
+.fs-xxl {
+    font-size: var(--fs-xxl);
+}

@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+.popins {
+    font-family: "Poppins", sans-serif;
+}
+
+.roboto {
+    font-family: "Roboto", serif;
+}
+
+.flote-right {
+    float: right;
+}
+
+.gap-30 {
+    gap: 30px;
+}
+
+.pt-90 {
+    padding-top: 90px;
+}
+
+.text-align {
+    text-align: center;
+}
+
+::marker {
+    color: #1E71FF;
+}
+
+.photo-img {
+    margin-bottom: 100px;
+}
+
+.btn-1 {
+    color: white;
+    background-color: #4B8DFF;
+    width: 111px;
+    height: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: none;
+    margin-left: 20px;
+}
+
+.btn-1:hover {
+    background-color: white;
+    color: #4B8DFF;
+    transition: 200ms all linear;
+}
+
+.try-it-btn {
+    width: 172px;
+    height: 50px;
+    border: 2px solid;
+    border-radius: 60px;
+    background: #FFFFFF;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: center;
+    color: #1E71FF;
+    border-color: #FFFFFF;
+}
+
+.try-it-btn:hover {
+    background-color: #1E71FF;
+    color: white;
+
+}
+
+.Get-btn {
+    width: 168px;
+    height: 50px;
+    border-radius: 60px;
+    border: 2px solid;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: center;
+    color: #1E71FF;
+    border-color: #FFFFFF;
+    margin-left: 36px;
+}
+
+.Get-btn:hover {
+    background-color: #1E71FF;
+    color: #FFFFFF;
+}
+
+.nav-list {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.try-it-btn-2 {
+    width: 167px;
+    height: 50px;
+    border: 2px solid;
+    border-radius: 60px;
+    background: #E8F1FF;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: center;
+    color: #1E71FF;
+    border-color: #1E71FF;
+}
+
+.try-it-btn-2:hover {
+    background-color: #1E71FF;
+    color: white;
+}
+
+.Get-btn-2 {
+    width: 169px;
+    height: 50px;
+    border-radius: 60px;
+    border: 2px solid;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: center;
+    color: #1E71FF;
+    border-color: #1E71FF;
+    background-color: #E8F1FF;
+    margin-left: 30px;
+}
+
+.Get-btn-2:hover {
+    background-color: #1E71FF;
+    color: white;
+}
+
+.line {
+    width: 167px;
+    height: 0px;
+    border: 1px;
+    border: 1px solid #2B353E26;
+}
+
+.links {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.11px;
+    text-align: left;
+    text-decoration: none;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+
+.links-2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21.02px;
+    text-decoration: none;
+    text-align: left;
+    color: #2B353EB2;
+    cursor: pointer;
+}
+
+.main-head {
+    padding-top: 90px;
+}
+
+.copyright-para {
+    font-family: "Roboto", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21.02px;
+    text-align: left;
+    color: #2B353EB2;
+}
+
+.party-pic {
+    transform: translateX(-130px);
+}
